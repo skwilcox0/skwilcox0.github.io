@@ -16,7 +16,12 @@ An existing PDDL system generated step-by-step plans describing the actions a ro
 
 **Technologies:** `Python` · `ROS2` · `PDDL` · `Motion Planning` · `Simulation`
 
-![Task and motion planning architecture](images/image_schema_tool_use.png)
+<figure>
+  <img src="images/image_schema_tool_use.png">
+  <figcaption>
+    Overview of how the high-level plan (grasp, align, cycle or contain) is represented through Image Schema.
+  </figcaption>
+</figure>
 
 <figure>
   <video controls width="800">
@@ -35,7 +40,12 @@ An existing PDDL system generated step-by-step plans describing the actions a ro
   </figcaption>
 </figure>
 
-![Master thesis simulation](images/panda_wall.png)
+<figure>
+  <img src="images/panda_wall.png">
+  <figcaption>
+    Master thesis simulation
+  </figcaption>
+</figure>
 
 ---
 
@@ -54,9 +64,19 @@ The environment has a lander that must land on a surface using four actions: mov
 
 **Technologies:** `Python` · `Evolutionary Algorithms` · `Genetic Programming` · `Reinforcement Learning`
 
-![Evolutionary algorithm result](images/baseline-flowchart.png)
+<figure>
+  <img src="images/baseline-flowchart.png">
+  <figcaption>
+    Evolutionary algorithm result
+  </figcaption>
+</figure>
 
-![Evolutionary algorithm animation](images/evolved_lander_RL.gif)
+<figure>
+  <img src="images/evolved_lander_RL.gif">
+  <figcaption>
+    Evolutionary algorithm animation
+  </figcaption>
+</figure>
 
 ---
 
@@ -76,11 +96,26 @@ My main contribution was integrating a boustrophedon coverage path-planning appr
 
 **Technologies:** `Python` · `ROS` · `Path Planning` · `MIRTE Master`
 
-![MIRTE Master robot](images/mirte.png)
+<figure>
+  <img src="images/mirte.png">
+  <figcaption>
+    MIRTE Master robot
+  </figcaption>
+</figure>
 
-![Generated cleaning path](images/boustrophedon_mirte.png)
+<figure>
+  <img src="images/boustrophedon_mirte.png">
+  <figcaption>
+    Generated Boustrophedon cleaning path
+  </figcaption>
+</figure>
 
-![Robot detecting targets (green) and obstacles (red) with point cloud clusters](images/mirte_point_cloud_detection.png)
+<figure>
+  <img src="images/mirte_point_cloud_detection.png">
+  <figcaption>
+    Robot detecting targets (green) and obstacles (red) with point cloud clusters
+  </figcaption>
+</figure>
 
 ---
 
@@ -99,9 +134,19 @@ The system combined image processing with control of a motorized stage, allowing
 
 **Technologies:** `LabVIEW` · `Computer Vision` · `Image Processing` · `Motion Control`
 
-![Laboratory setting with microscope, motorized stage, and spectrometer](images/bach_lab.jpg)
+<figure>
+  <img src="images/bach_lab.jpg">
+  <figcaption>
+    Laboratory setting with microscope, motorized stage, and spectrometer
+  </figcaption>
+</figure>
 
-![Simplified version of workflow for particle detection and centering](images/labview_flow.png)
+<figure>
+  <img src="images/labview_flow.png">
+  <figcaption>
+    Simplified version of workflow for particle detection and centering
+  </figcaption>
+</figure>
 
 <figure>
   <video controls width="800">
