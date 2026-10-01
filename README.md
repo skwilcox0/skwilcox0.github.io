@@ -106,7 +106,7 @@ My main contribution was integrating a boustrophedon coverage path-planning appr
 <figure>
   <img src="images/boustrophedon_mirte.png">
   <figcaption>
-    Generated Boustrophedon cleaning path
+    Generated Boustrophedon cleaning path with robot following path
   </figcaption>
 </figure>
 
