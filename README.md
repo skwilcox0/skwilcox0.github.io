@@ -43,7 +43,7 @@ An existing PDDL system generated step-by-step plans describing the actions a ro
 <figure>
   <img src="images/panda_wall.png">
   <figcaption>
-    Master thesis simulation
+    Simulation showing ready, aligned, and completion steps with different nail orientation, demonstrating generalizability.
   </figcaption>
 </figure>
 
@@ -67,14 +67,14 @@ The environment has a lander that must land on a surface using four actions: mov
 <figure>
   <img src="images/baseline-flowchart.png">
   <figcaption>
-    Evolutionary algorithm result
+    Baseline flowchart showing the steps of initialization and the steps of each generation.
   </figcaption>
 </figure>
 
 <figure>
   <img src="images/evolved_lander_RL.gif">
   <figcaption>
-    Evolutionary algorithm animation
+    The top result from a solution with a population size of 256 and 10 generations.
   </figcaption>
 </figure>
 
