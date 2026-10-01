@@ -58,7 +58,7 @@ In this project, I designed improvements to a hybrid Reinforcement Learning and 
 The environment has a lander that must land on a surface using four actions: move up, move left, move right, and do nothing. These four actions make up a multitree of functions, data features, and constants that chose the best action with argmax. A population of multitree structures are generated, their fitness evaluated, and mutation carried out a specified number of times to automatically generate the best solution to the lunar lander.
 
 **My contributions:**
-- Given Reinforcement learning and genetic programming solution, researched and implemented possible improvements
+- Given Reinforcement learning and genetic programming solution, researched and implemented improvements
 - Added elitism to preserve best solutions and prevent degredation across generations
 - Updated population initialization with Deep Q-Networks to learn a policy to generate high fitness multitrees
 
@@ -86,7 +86,7 @@ The environment has a lander that must land on a surface using four actions: mov
 
 As part of a multidisciplinary team, I developed a system on the MIRTE Master robot for removing manure from a cow barn.
 
-My main contribution was integrating a boustrophedon coverage path-planning approach to generate paths for the robot to follow while cleaning. I also contributed to the broader system design and integration with the team's robot software.
+My main contribution was integrating a boustrophedon coverage path for the robot to follow while cleaning. I also contributed to the broader system design and integration with other teammates' software.
 
 **My contributions:**
 - Integrated the boustrophedon path-generation algorithm
@@ -123,9 +123,7 @@ My main contribution was integrating a boustrophedon coverage path-planning appr
 
 ### Automated Nanoparticle Detection and Positioning
 
-For my bachelor's thesis, I developed a LabVIEW-based system to automatically detect nanoparticles under a microscope and position them at the center of the field of view so dark-field scattering spectra can be taken.
-
-The system combined image processing with control of a motorized stage, allowing nanoparticles to be automatically located and centered.
+For my bachelor's thesis, I developed a LabVIEW-based system to automatically detect nanoparticles under a microscope and position them at the center of the field of view so dark-field scattering spectra can be taken. The system combined image processing with control of a motorized stage.
 
 **My contributions:**
 - Developed the nanoparticle detection algorithm using image thresholding
